@@ -1,0 +1,23 @@
+
+body{
+    background-color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    height: 100%;
+}
+
+h1{
+    text-align: center;
+    padding: 0;
+    text-shadow: 0 0 10px rgba(255, 255, 255, 0.6);
+    font-size: 72px;
+    color: white;
+    margin-top: 40vh;
+}
+
+#bg{
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
